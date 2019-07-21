@@ -8,7 +8,7 @@ Laura Titolo,
 Aaron Dutle, and
 Cesar A. Muñoz]
 date: 2017-09-13
-doi: ""
+doi: "10.1007/978-3-319-66266-4\_14"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-09-13
@@ -62,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [PRECiSA]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

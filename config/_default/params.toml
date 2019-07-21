@@ -85,11 +85,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-# map = 1
-# map_api_key = "AIzaSyDBDAfqcuAdN5MrbXHiIOutV7wlEFAsxrQ"
-# latitude = "37.087398"
-# longitude = "-76.378857"
-# zoom = 15
+map = 1
+map_api_key = "AIzaSyDBDAfqcuAdN5MrbXHiIOutV7wlEFAsxrQ"
+latitude = "37.087398"
+longitude = "-76.378857"
+zoom = 15
 
 ############################
 ## Plugins                ##
@@ -122,7 +122,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]

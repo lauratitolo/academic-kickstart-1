@@ -7,7 +7,7 @@ Leticia Lavado,
 Laura Panizo, and
 Laura Titolo]
 date: 2017-01-02
-doi: ""
+doi: "10.1007/s40860-017-0040-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-02

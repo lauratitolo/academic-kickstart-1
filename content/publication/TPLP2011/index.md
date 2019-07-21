@@ -6,7 +6,7 @@ authors: [Marco Comini,
 Laura Titolo, and
 Alicia Villanueva]
 date: 2011-07-01
-doi: ""
+doi: "10.1017/S1471068411000135"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2011-07-01

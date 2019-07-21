@@ -7,7 +7,7 @@ MarIa-del-Mar Gallardo,
 Laura Titolo, and
 Alicia Villanueva]
 date: 2015-07-13
-doi: ""
+doi: "10.1007/978-3-319-27436-2\_10"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-07-13

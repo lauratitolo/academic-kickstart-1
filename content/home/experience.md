@@ -36,4 +36,22 @@ date_format = "Jan 2006"
   date_end = "2015-09-01"
   description = """Member of the Mobile Systems and Software Reliability (MORSE) team."""
 
+[[experience]]
+  title = "PhD Student"
+  company = "University of Udine"
+  company_url = ""
+  location = "Udine, Italy"
+  date_start = "2010-09-01"
+  date_end = "2014-04-12"
+  description = ""
+
+[[experience]]
+title = "Researcher"
+company = "Univestitat Politecnica de Valencia"
+company_url = ""
+location = "Valencia, Spain"
+date_start = "2010-01-01"
+date_end = "2010-03-30"
+description = ""
+
 +++

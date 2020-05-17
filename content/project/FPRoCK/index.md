@@ -6,7 +6,7 @@ summary: "FPRoCK is a software library for checking satisfiability of a set of m
 authors: [Rocco Salvia, Marco A. Feliu, and Laura Titolo]
 tags: []
 categories: []
-date: 2019-06-23T15:21:39-04:00
+date: 2018-06-23T15:21:39-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
